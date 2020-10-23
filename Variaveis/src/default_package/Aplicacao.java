@@ -18,7 +18,14 @@ public class Aplicacao {
 		//System.out.println(numero);
 		//System.out.println(numero2);
 		
-		boolean b = true;
-		System.out.println(b);
+		//boolean b = true;
+		//System.out.println(b);
+		
+		long i = 10L + 5;
+		
+		double d = 5 * 2.0;
+		
+		System.out.println(i);
+		System.out.println(d);
 	}
 }
