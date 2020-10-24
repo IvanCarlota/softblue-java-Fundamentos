@@ -26,7 +26,32 @@ public class Aplicacao {
 		//System.out.println(i);
 		//System.out.println(d);
 		
-		double i = 0.0 / 0;
-		System.out.println(i);
+		//double i = 0.0 / 0;
+		//System.out.println(i);
+		
+		
+		
+		//String meuTexto = "good";
+		//char[] meuArr = {'g', 'o', 'o', 'd'};
+		
+		//String novoTexto = null;
+		//for(char ch: meuArr) {
+			//novoTexto = novoTexto + ch;
+		//}
+		//System.out.println((novoTexto == meuTexto) + " " + (novoTexto.equals(meuTexto)));
+		
+		//private void validar(Long idade) {
+			//if(idade < 18) {
+				//throws new NotAllwedException("Não tenho 18 anos");
+			//}else {
+				//System.out.println("Tenho mais de 18");
+			//}
+		//}
+		
+		//Object t = new Interger(107);
+		//int k = (Interger) t.intValue ()/9;
+		//System.out.println(k);
+		
+		
 	}
 }
